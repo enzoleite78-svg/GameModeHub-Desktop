@@ -6,7 +6,8 @@ Ele foi feito pra quem quer otimzar seu tempo quando quer jogar,
 botões customizaveis pra escolher qual monitor voce quer jogar,
 se vc tem multiplos monitores vc apenas aperta um botao e so o monitor
 principal fica ligado e ja executa o modo steam bigpicture (ou o laucher de sua preferencia),
-fecha todos os apps selecionados por vc no memu de configurações automaticamente,
+fecha todos os apps selecionados por vc no memu de configurações automaticamente.
+
 
 
 
