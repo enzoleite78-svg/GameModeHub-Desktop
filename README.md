@@ -14,5 +14,5 @@ so pegar o controle e sentar no sofá,  existe um app mobile que desenvolvi,
 e ja esta tudo funcionando só preciso dar os ultimos ajustes para ser lançado,
 mas ele foi desenvolvido pensado em quem joga com o pc na tv,
 ja que vc nao vai precisar pegar o mouse nem o teclado pra precisar aceitar os termos nos jogos, 
-
+tudo feito pelo app no celular, com trackpad e teclado virtual,
 
