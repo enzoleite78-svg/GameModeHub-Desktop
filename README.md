@@ -9,3 +9,5 @@ principal fica ligado e ja executa o modo steam bigpicture (ou o laucher de sua 
 fecha todos os apps selecionados por vc no memu de configurações automaticamente.
 varios atalhos para o usuario criar para otimizar mais ainda o tempo 
 se você joga na apenas na tv, ou se seu Desktop fica ligado o monitor e em uma tv 
+esse aplicativo foi feito pra você, ele desliga o monitor e apenas liga a tv com o modo jogo,
+
