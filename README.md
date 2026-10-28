@@ -9,3 +9,4 @@ principal fica ligado e ja executa o modo steam bigpicture (ou o laucher de sua 
 fecha todos os apps selecionados por vc no memu de configurações automaticamente,
 
 
+
